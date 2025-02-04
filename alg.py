@@ -193,9 +193,3 @@ def tha_main():
 tha_main()
 
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ALLEGORY1133/A5_1_Algorithm.git
-git push -u origin main
